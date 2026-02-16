@@ -1,1 +1,3 @@
-console.log("Hello World!");
+const school = "Boolean";
+
+console.log(`Hello ${school}!`);
